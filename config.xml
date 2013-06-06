@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.grsuuu.phonegap.buildtest" version = "1.0.0">
+<name>PhoneGap Build</name>
+<description>PhoneGap Build Test</description>
+<author href="http://facebook.com/sugumura" email="sugumura@gmail.com">Suguru Murakami</author>
+<preference name="phonegap-version" value="2.7.0" />
+</widget>
